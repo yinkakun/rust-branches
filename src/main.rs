@@ -10,4 +10,8 @@ fn main() {
     } else {
         println!("number is less than 10")
     }
+
+    loop {
+        println!("Loopinggg")
+    }
 }
